@@ -87,5 +87,10 @@ button {
 .footer {
   text-align: center;
   padding: 20px;
-  opacity: 0.8;
+  opacity: 0.9;
+}
+.sponsor {
+  font-size: 0.7rem;
+  opacity: 0.5;
+  margin-top: 8px;
 }
